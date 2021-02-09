@@ -1,0 +1,6 @@
+Pewlett_Hackard Employee Retirement Analysis
+Overview:
+  We were tasked with performing an in depth analysis of the employees on staff at Pewlett-Hackard in an effort to assist the large company with their staffing issues.  These staffing issues include a large population of employees being baby boomers, thus approaching retirement age.  Knowing that, we were asked to find the population of employees who are to be reitiring shortly from the company.  We found the total number of retired-to-be's per job title.  Another objective was to identify the employee population who were eleigibile for the mentorship program.  All of this was done using postgreSQL. 
+  
+  Results: the results show that the job titles who are retiring the largest populatuion in decending order are: senior engineers, senior staff, engineer, staff, technoque leaders, assistant engineer and managers.
+  addtionally, there are 1940 employees eligible for the mentorship.  this was all done using the original schema that was created in the module and joining the tables at certain primary keys. 
